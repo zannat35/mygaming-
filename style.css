@@ -1,0 +1,365 @@
+body{
+
+}
+    
+
+.zannat{
+    display: flex;
+    justify-content: space-between;
+    padding:50px ;
+}
+.logo{
+    margin-left: 100px;
+}
+.nav {
+    margin-right: 100px;
+}
+.nab{
+    color: #645d5d;
+    margin-left: 20px;
+
+}
+.nab:hover{
+    color: rgb(214, 18, 155);
+}
+.head{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 30px;
+}
+.head:hover{
+    background-color: rgb(214, 18, 155);
+    color:black;
+}
+.pic{
+    border: none;
+    border-radius: 50px;
+}
+.main-banner{
+    background-image: url(./images/banner-bg.jpg);
+    height: 400px;
+    width:80%;
+    border-radius: 20px;
+    margin-left: 90px;
+    padding: ;
+30px
+}
+.header-text{
+    text-align: center;
+    margin-top: 100px;
+    color: bisque;
+}
+h4{
+    font-size: 15px;
+}
+.bttn{
+    color: bisque;
+    background-color: rgb(226, 43, 165);
+    padding: 10px;
+    border-radius: 50px;
+}
+.school{
+    background-color: ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.most-popular{
+    margin-top: 100px;
+    color: #fafaf6;
+    background-color: rgb(4, 2, 8);
+    margin-left: 30px;
+    border-radius: 50px;
+}
+.joha{
+    border: none;
+    border-radius: 50px;
+    width: 250px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.rat{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 50px;
+    font-size: 15px;
+}
+.item{
+    background-color: rgb(36, 41, 43);
+    margin-top:50px;
+    border-radius: 50px;
+}
+.nlink{
+    color: #645d5d;
+}
+.container{
+    background-color: rgb(40, 42, 42);
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.ktt{
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+    color: #fafaf6;
+}
+.bttnn{
+    background-color: rgb(146, 153, 126);
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    background-position: center;
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.fox{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    text-align: center;
+    color: beige;
+}
+.gaming-library{
+    background-color: rgb(12, 6, 21);
+    margin-top: 50px;
+    
+    margin-left:30px ;
+    border-radius: 50px;
+    
+}
+.brb{
+    background-color: rgb(2, 17, 22);
+    color: antiquewhite;
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    margin-right: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.dota{
+    border: none;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bold{
+    background-color: rgb(33, 36, 36);
+}
+.bttnn:hover{
+    background-color: rgb(122, 24, 193);
+    color: rgb(15, 9, 1);
+}
+.seme{
+    background-color:rgb(26, 26, 27) ;
+    padding: 15px;
+    border: none;
+    border-radius:50px;
+    text-align: center;
+    color: rgb(226, 226, 216);
+}
+.seme:hover{
+    background-color: blueviolet;
+    color: black);
+}
+.zannat:hover{
+    color: palevioletred;
+}
+.main-info{
+    text-align: left;
+    margin-left: 20px;
+}
+.off{
+    background-color: rgb(185, 31, 123);
+    padding: 10px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 10PX;
+    margin-bottom: 30px;
+    color: white;
+}
+.alam{
+    font-size: 40px;
+    color: #f5f1f1;
+}
+.you{
+    font-size: 20px;
+    color: #f1ecec;
+}
+.main-border-button{
+    background-color: rgb(1, 16, 16);
+    border: 1px solid rgb(227, 16, 87);
+    width: 200px;
+    border-radius: 70px;
+    text-align: center;
+    color: rgb(221, 8, 147);
+    font-size: 20PX;
+    margin-left: 50PX;
+    margin-top: 20px;
+
+}
+.main-border-button:hover{
+    background-color: rgb(220, 212, 229);
+    
+}
+.ima{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.most-popularr{
+
+    color: rgb(203, 203, 149);
+    background-color: rgb(67, 58, 81);
+    margin-left: 30px;
+    border-radius: 50px;
+    width: 95%;
+}
+.for{
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f1ecec;
+}
+.left-info{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(9, 16, 25);
+    border: none;
+    border-radius: 50px;
+    padding: 15PX;
+}
+.left{
+    margin-left: 100PX;
+    font-size: 20PX;
+    color: #f5f1f1;
+}
+.con{
+    margin-right: 100px;
+    color: #f5f1f1;
+}
+.right-info{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(10, 20, 30);
+    border: none;
+    border-radius: 50px;
+    padding: 5PX;
+
+}
+.biii{
+    margin-left: 100px;
+    
+}
+.down{
+    margin-right: 100px;
+    text-align: center;
+}
+.gita{
+    background-color: rgb(12, 12, 17);
+    padding: 30px;
+    border-radius: 50px;
+    width: 60%;
+}
+.main-border{
+    width: 80%;
+    padding: 10px;
+    border: 1px solid rgb(226, 6, 80);
+    background-color: rgb(4, 10, 16);
+    border-radius: 50px;
+    margin-left: 80px;
+    color:rgb(196, 8, 70);
+
+}
+.main-border:hover{
+    background-color: aquamarine;
+}
+.class{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.roww{
+    margin-bottom: 40px;
+    
+}
+.font{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 30px;
+}
+.am{
+    margin-left: 98px;
+}
+.containerr{
+    text-align: center;
+    padding: 40px;
+   
+    background-color: rgb(64, 60, 60);
+    border-radius: 30px;
+}
+.amm{
+    margin-left: 150px;
+    
+ 
+}
+.ammm{
+    margin-left: 140px;
+}
+.ammmm{
+    margin-left: 200px;
+}
+.active{
+    color: palevioletred;
+}
+.juti{
+
+    color: white;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+.potu{
+    border: none;
+    border-radius: 20px;
+    margin-top: 30px;
+    height: 100px;
+    width: 100px;
+}
+.not{
+    margin-top: 30px;
+}
+.load{
+    color: palevioletred;
+
+}
+.bi-bi{
+    background-color: #645d5d;
+}
+.item{
+    color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+.juna{
+    display: flex;
+    justify-content: space-between;
+    color: #f5f1f1;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.top-streamers{
+    margin-right: 100px;
+    background-color: rgb(109, 125, 120);
+    padding: 10px;
+    border-radius: 30px;
+}
+.not{
+    padding: 5px;
+}
